@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Cristóbal Subiabre C. and I...
 
 - 🔭 I’m currently studying industrial engineer in U. of Chile.\n
 - 🌱 I’m currently doing a magister in Data Science.\
